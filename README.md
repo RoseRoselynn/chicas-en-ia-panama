@@ -78,6 +78,6 @@ Para consultas, propuestas o colaboraciones, puedes comunicarte con el equipo a 
 
 ## Créditos
 
-Iniciativa impulsada por **XSTEM**, en colaboración con **IBM SkillsBuild**.
+Iniciativa impulsada en Panamá por **XSTEM**, **SENACYT** **Red de Rincones** en colaboración con **IBM SkillsBuild**.
 
 Chicas en IA Panamá forma parte de esta propuesta educativa internacional y adapta su implementación al contexto local.
